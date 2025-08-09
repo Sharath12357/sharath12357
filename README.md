@@ -1,4 +1,5 @@
-<h2 align="left">Hello, my name is Sharath R, and I am an aspiring Data Analyst with a strong passion for Python, Machine Learning, AI/ML, and Robotic Process Automation (RPA). I enjoy working on data analysis, predictive modeling, and automation to solve real-world problems.</h2>
+<h2 align="left">Hello,I’m Sharath, an emerging Data Analyst and Python Developer passionate about using Machine Learning, AI, and Data Science to turn raw data into actionable insights. My toolkit includes Python, SQL, Power BI, and advanced ML frameworks — and I’ve applied them to real-world projects that deliver measurable impact.
+</h2>
 
 ###
 
