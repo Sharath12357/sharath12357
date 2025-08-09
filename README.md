@@ -1,5 +1,4 @@
-<h2 align="left">Hello,I’m Sharath, an emerging Data Analyst and Python Developer passionate about using Machine Learning, AI, and Data Science to turn raw data into actionable insights. My toolkit includes Python, SQL, Power BI, and advanced ML frameworks — and I’ve applied them to real-world projects that deliver measurable impact.
-</h2>
+<h2 align="left">Hello,I’m Sharath, an emerging Data Analyst and Python Developer passionate about using Machine Learning, AI, and Data Science to turn raw data into actionable insights. My toolkit includes Python, SQL, Power BI, and advanced ML frameworks — and I’ve applied them to real-world projects that deliver measurable impact.</h2>
 
 ###
 
